@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A Junior Data Engineer from Indonesia</h3>
+Hi there, I'm REZA 👋
+---
+🚀 Junior Data Engineer | Aspiring Data Scientist | AI Enthusiast
+🎓 Currently working as a junior data engineer and enrolled in a Data Science Bootcamp
+🔧 Passionate about data analytics, data engineering, and exploring the world of artificial intelligence!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezakusuma40&label=Profile%20views&color=0e75b6&style=flat" alt="rezakusuma40" /> </p>
+🌟 About Me
+💻 My journey began with a Data Engineering Bootcamp, followed by hands-on professional experience, and now I’m diving deeper into Data Science and AI through my bootcamp.
+📈 I’m building end-to-end solutions and continually sharpening my skills to create insightful, actionable data products.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezakusuma40" alt="rezakusuma40" /></a> </p>
+🔧 Tools & Technologies
+👷‍♂️ Data Engineering Skills:
+Languages: Python, SQL (PostgreSQL)
+Tools/Platforms: DBeaver, PySpark, SparkSQL, Spark Streaming, Airflow, Kafka, Elasticsearch, Kibana, Docker, GitHub
+Cloud Tech: Google Cloud Platform (GCP) – Cloud Storage, Compute Engine, BigQuery, Dataproc, Looker
+Processes: ETL, Data Pipelines, Data Preprocessing, ERD & Data Warehouse Modeling, Web Scraping (BeautifulSoup, Selenium)
+💼 In My Current Job:
+Focus Areas: Web Scraping (BeautifulSoup, Selenium), Data Cleaning, BigQuery, Cloud Storage, SQL, GitHub
+📚 What I Have Learned at My Data Science Bootcamp:
+Core Skills: Python, Jupyter & Colab Notebooks, Data Preprocessing, EDA, Visualization, Data Transformation, Feature Engineering
+Libraries/Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tableau, Power BI
+Techniques: Hypothesis Testing, Basic ML Algorithms
+🔮 And Next:
+Advanced Topics: End-to-End Data Science Projects, Advanced ML Algorithms (e.g., Random Forest, XGBoost), Hyperparameter Tuning, Imbalance Handling, Model Evaluasion, etc..
 
-- 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available in [here](https://github.com/rezakusuma40?tab=repositories)
+## 📂 **Featured Projects**
+1. End-to-End Data Pipeline for Investment Tweets 📊
+A comprehensive pipeline built in GCP, combining batch and stream processing:
 
-- 📫 How to reach me **rezakusuma40@gmail.com**
+Scraped investment-related tweets using Twitter API & Kafka (streaming).
+Loaded raw data to a data lake, transformed it via Dataproc (PySpark), and stored in BigQuery & Elasticsearch.
+Created dashboards in Looker Studio for insightful visualizations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadrezaadikusuma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad reza adi kusuma" height="30" width="40" /></a>
-</p>
+2. Private Lease Cars Scraping 🚗
+Web scraping a dynamic site using Selenium and Selenium Wire:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+Leveraged retry mechanisms and API scraping for optimal performance.
+Compared methods for reliability and speed, with periodic scraping capability.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezakusuma40&show_icons=true&locale=en&layout=compact" alt="rezakusuma40" /></p>
+3. Telco Churn Exploratory Data Analysis 📈
+An Exploratory Data Analysis (EDA) project using Telco Churn Dataset:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezakusuma40&show_icons=true&locale=en" alt="rezakusuma40" /></p>
+Conducted univariate & bivariate analysis with impactful visualizations.
+Used techniques for data preparation and deep-dive analysis.
+
+4. Telco Churn Predictive Modeling 🤖
+An end-to-end machine learning project:
+
+Steps Involved: Data Preparation, EDA, Encoding, Train-Val-Test Split, Imbalance Handling
+Will use 2 ML algorithms with cross-validation and evaluation metrics.
+🌈 Let’s Connect!
+📫 Reach me at [muhammadkusumareza@gmail.com](muhammadkusumareza@gmail.com)
+💼 Connect on [my LinkedIn](https://www.linkedin.com/in/muhammadrezaadikusuma/)
+
+
+"Turning data into insights, and insights into impact."
