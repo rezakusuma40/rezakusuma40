@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [my repositories](my repositories)
+- 👨‍💻 All of my projects are available in [here](https://github.com/rezakusuma40?tab=repositories)
 
 - 📫 How to reach me **rezakusuma40@gmail.com**
 
