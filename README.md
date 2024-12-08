@@ -25,7 +25,7 @@ Hi there, I'm REZA 👋
   Advanced Topics: End-to-End Data Science Projects, Advanced ML Algorithms (e.g., Random Forest, XGBoost), Hyperparameter Tuning, Imbalance Handling, Model Evaluasion, etc..  
 
 ## 📂 **Featured Projects**
-1. [End-to-End Data Pipeline for Investment Tweets 📊](https://github.com/rezakusuma40/SBD_Cilsy_Final_Project)  
+1. [End-to-End Data Pipeline for Investment Tweets](https://github.com/rezakusuma40/SBD_Cilsy_Final_Project) 📊  
    A comprehensive pipeline built in GCP, combining batch and stream processing:
 
    Scraped investment-related tweets using Twitter API & Kafka (streaming).  
@@ -38,7 +38,7 @@ Hi there, I'm REZA 👋
    Leveraged retry mechanisms and API scraping for optimal performance.  
    Compared methods for reliability and speed, with periodic scraping capability.  
 
-3. Telco Churn Predictive Modeling 🤖  
+3. [Telco Churn Predictive Modeling](https://github.com/rezakusuma40/Telco_Churn_Prediction) 🤖  
    An end-to-end machine learning project:
 
    Steps Involved: Exploratory Data Analysis, Data Preparation, Feature Engineering, Imbalance Handling, Hyperparameter Tuning
