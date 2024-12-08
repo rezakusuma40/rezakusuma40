@@ -38,17 +38,11 @@ Hi there, I'm REZA 👋
    Leveraged retry mechanisms and API scraping for optimal performance.  
    Compared methods for reliability and speed, with periodic scraping capability.  
 
-3. Telco Churn Exploratory Data Analysis 📈  
-   An Exploratory Data Analysis (EDA) project using Telco Churn Dataset:
-
-   Conducted univariate & bivariate analysis with impactful visualizations.  
-   Used techniques for data preparation and deep-dive analysis.  
-
-4. Telco Churn Predictive Modeling 🤖  
+3. Telco Churn Predictive Modeling 🤖  
    An end-to-end machine learning project:
 
-   Steps Involved: Data Preparation, EDA, Encoding, Train-Val-Test Split, Imbalance Handling  
-   Will use 2 ML algorithms with cross-validation and evaluation metrics.  
+   Steps Involved: Exploratory Data Analysis, Data Preparation, Feature Engineering, Imbalance Handling, Hyperparameter Tuning
+   Will use 4 ML algorithms with cross-validation and evaluation.  
 
 🌈 Let’s Connect!  
 📫 Reach me at [muhammadkusumareza@gmail.com](muhammadkusumareza@gmail.com)  
